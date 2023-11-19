@@ -39,7 +39,7 @@ The Garment Management System is a Java-based application that provides function
 - Add new employee details, display all employees, or fetch specific details.
 
 ## Database Configuration (Optional)
-- The application uses a MySQL database for storing employee details. Modify the connection details in the `sql` method in the `n` class if needed.
+- The application uses a MySQL database for storing employee details. Modify the connection details in the `mysql` method in the `employe` class if needed.
 
 ## Contributors
 - [JEGADEESHWARAN](https://github.com/1U21CA032)
