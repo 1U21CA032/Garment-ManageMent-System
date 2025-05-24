@@ -44,13 +44,6 @@ The Garment Management System is a Java-based application that provides function
 ## Contributors
 - [JEGADEESHWARAN](https://github.com/1U21CA032)
 
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-- Mention any external libraries, tutorials, or resources you used or were inspired by.
-
 ## Contact
 For issues, suggestions, or general feedback, please contact (mailto:jegadeeshwaranbca2021@gmail.com).
 
